@@ -6,7 +6,6 @@ require_once 'db/ca_log_bind.php';
 
 header("cache-control:no-cache,must-revalidate");
 header("Content-Type:application/json;charset=utf-8");
-
 /*
 ========================== 文件绑定 ==========================
 GET参数
